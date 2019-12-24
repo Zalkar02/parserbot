@@ -1,0 +1,49 @@
+Metadata-Version: 2.1
+Name: beautiful
+Version: 0.0.2
+Summary: A collection of functions and classes to aid developers into building better code faster
+Home-page: https://github.com/kalaspuff/beautiful
+License: MIT
+Keywords: beautiful
+Author: Carl Oscar Aaro
+Author-email: hello@carloscar.com
+Requires-Python: >=3.6,<4.0
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Typing :: Typed
+Project-URL: Repository, https://github.com/kalaspuff/beautiful
+Description-Content-Type: text/markdown
+
+# `beautiful`
+[![pypi](https://badge.fury.io/py/beautiful.svg)](https://pypi.python.org/pypi/beautiful/)
+[![Made with Python](https://img.shields.io/pypi/pyversions/beautiful)](https://www.python.org/)
+[![Type hinted - mypy validated](https://img.shields.io/badge/typehinted-yes-teal)](https://github.com/kalaspuff/beautiful)
+[![MIT License](https://img.shields.io/github/license/kalaspuff/beautiful.svg)](https://github.com/kalaspuff/beautiful/blob/master/LICENSE)
+[![Code coverage](https://codecov.io/gh/kalaspuff/beautiful/branch/master/graph/badge.svg)](https://codecov.io/gh/kalaspuff/beautiful/tree/master/beautiful)
+
+*A collection of functions and classes to aid developers into building better code faster.*
+
+
+## Installation with `pip`
+Like you would install any other Python package, use `pip`, `poetry`, `pipenv` or your weapon of choice.
+```
+$ pip install beautiful
+```
+
+
+## Usage and examples
+
+#### Use-case
+```
+import beautiful
+
+```
+
